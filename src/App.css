@@ -1,5 +1,16 @@
 * {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	color: var(--main-color);
+	font-size: 17px;
+}
+
+:root {
+	--main-color: #000;
+	--error-color: #ff0000;
+	--description-color: #acacac;
+
+	--font-small: 14px;
+	--font-large: 34px;
 }

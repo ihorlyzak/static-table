@@ -1,7 +1,8 @@
 import './App.css';
+import { TablePage } from './pages';
 
 const App = () => {
-	return <div className='App'>Toast</div>;
+	return <TablePage />;
 };
 
 export default App;

@@ -1,0 +1,101 @@
+{
+	"tableTitle": "Referrals - 345",
+	"columns": ["Referral event", "Advocate", "Friend", "Referral status"],
+	"data": [
+		{
+			"Referral event": {
+				"event": "Purchase",
+				"dateAndTime": "06/17/2020 at 7:13 PM PDT",
+				"price": "$120.00"
+			},
+			"Advocate": {
+				"email": "autouser23926@gmail.com",
+				"advocateRole": "Advocate"
+			},
+			"Friend": {
+				"email": "friend@gmail.com",
+				"friendRole": "Friend"
+			},
+			"Referral status": {
+				"status": "Approved",
+				"isFraudCheckPassed": "Passed fraud checks"
+			}
+		},
+		{
+			"Referral event": {
+				"event": "Purchase",
+				"dateAndTime": "06/17/2020 at 7:13 PM PDT",
+				"price": "$100.00"
+			},
+			"Advocate": {
+				"email": "advocate@gmail.com",
+				"advocateRole": "Advocate"
+			},
+			"Friend": {
+				"email": "friend@gmail.com",
+				"friendRole": "Friend"
+			},
+			"Referral status": {
+				"status": "Approved",
+				"isFraudCheckPassed": "Marked as fraud"
+			}
+		},
+		{
+			"Referral event": {
+				"event": "Purchase",
+				"dateAndTime": "06/17/2020 at 7:13 PM PDT",
+				"price": "$28.00"
+			},
+			"Advocate": {
+				"email": "advocate@gmail.com",
+				"advocateRole": "Advocate"
+			},
+			"Friend": {
+				"email": "friend@gmail.com",
+				"friendRole": "Friend"
+			},
+			"Referral status": {
+				"status": "Approved",
+				"isFraudCheckPassed": "Marked as fraud"
+			}
+		},
+		{
+			"Referral event": {
+				"event": "Purchase",
+				"dateAndTime": "06/27/2020 at 7:22 PM PDT",
+				"price": "$120.00"
+			},
+			"Advocate": {
+				"email": "advocate@gmail.com",
+				"advocateRole": "Advocate"
+			},
+			"Friend": {
+				"email": "friend@gmail.com",
+				"friendRole": "Friend"
+			},
+			"Referral status": {
+				"status": "Approved",
+				"isFraudCheckPassed": "Passed fraud checks"
+			}
+		},
+		{
+			"Referral event": {
+				"event": "Purchase",
+				"dateAndTime": "06/17/2020 at 7:13 PM PDT",
+				"price": "$120.00"
+			},
+			"Advocate": {
+				"email": "advocate@gmail.com",
+				"advocateRole": "Advocate"
+			},
+			"Friend": {
+				"email": "friend@gmail.com",
+				"friendRole": "Friend"
+			},
+			"Referral status": {
+				"status": "Approved",
+				"isFraudCheckPassed": "Marked as fraud"
+			}
+		}
+	]
+}
